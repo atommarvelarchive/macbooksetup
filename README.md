@@ -32,16 +32,16 @@ Here are some pieces to get you started:
 
 [Get a full list of useful common shortcuts here!](https://www.danrodney.com/mac/)
 
-## Magnet
+# Magnet
 ### What
 ### Why
 ### How
 
-## Google Chrome
+# Google Chrome
 ### How
 [Just go here and follow instructions](https://www.google.com/chrome/browser/desktop/index.html)
 
-## [iTerm2](https://www.iterm2.com/)
+# [iTerm2](https://www.iterm2.com/)
 ### What
 A terminal that is more fully featured than the one that comes with MacOS by default.
 ### Why
@@ -49,22 +49,22 @@ Just a quality of life thing. I also assume that this is the terminal you are us
 ### How
 [Just download it here!](https://www.iterm2.com/downloads.html) You probably just have to open whatever it downloads
 
-## [Homebrew](https://brew.sh/)
+# [Homebrew](https://brew.sh/)
 ### What
 ### Why
 ### How
 
-## Z Shell
+# Z Shell
 ### What
 ### Why
 ### How
 
-## Oh-My-ZSH
+# Oh-My-ZSH
 ### What
 ### Why
 ### How
 
-## nvm
+# nvm
 ### What
 It stands for *Node* *Version* *Manager*! [The github repo is here.](https://github.com/creationix/nvm)
 ### Why
@@ -80,27 +80,27 @@ source ~/.zshrc # This loads the nvm shortcut
 nvm --help # This should show you a list of nvm commands you can run
 ```
 
-## Node
+# Node
 ### What
 ### Why
 ### How
 
-## WebStorm (via Toolbox App)
+# WebStorm (via Toolbox App)
 ### What
 ### Why
 ### How
 
-## Plex
+# Plex
 ### What
 ### Why
 ### How
 
-## Slack
+# Slack
 ### What
 ### Why
 ### How
 
-## Sketch
+# Sketch
 ### What
 ### Why
 ### How
